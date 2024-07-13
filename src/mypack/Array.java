@@ -26,7 +26,7 @@ public class Array {
         }
     }
 
-
+// Write a program to build a random array by accepting an elements from a user and then convert int array to char array.
 
 
 
