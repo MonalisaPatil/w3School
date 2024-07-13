@@ -10,7 +10,7 @@ public class Array {
     Scanner n = new Scanner(System.in);
     System.out.println("Enter element index:");
     int input =  n.nextInt();
-    int[] elements = new int [input];
+    int[] elements = new int [input]; //
     for(int i = 0; i<=elements.length-1; i++){
        elements[i] =  r.nextInt(10);
     }
@@ -26,7 +26,6 @@ public class Array {
         }
     }
 
-// Write a program to build a random array by accepting an elements from a user and then convert int array to char array.
 
 
 
